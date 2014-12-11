@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">PhotoManners</string>
-    <string name="title_section1">Section 1</string>
-    <string name="title_section2">Section 2</string>
-    <string name="title_section3">Section 3</string>
+    <string name="app_name">Manners Photo</string>
+    <string name="title_section1">Recent Posts</string>
+    <string name="title_section2">General Photography</string>
+    <string name="title_section3">Landscape Photography</string>
+    <string name="title_section4">Portrait Photography</string>
+    <string name="title_section5">Candid Photography</string>
+    <string name="title_section6">Mobile Photography</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
